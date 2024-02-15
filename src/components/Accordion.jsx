@@ -24,7 +24,6 @@ const Accordion = () => {
     setMultiple(cpyMultiple);
   }
 
-  console.log(selected, multiple);
   return (
     <div className="wrapper">
       <button onClick={() => setEnableMultiSelection(!enableMultiSelection)}>Enable Multi Selection</button>
@@ -43,11 +42,6 @@ const Accordion = () => {
               <div className="content">{dataItem.answer}</div> :
               selected === dataItem.id && <div className="content">{dataItem.answer}</div>
             }
-            {/* {
-              selected === dataItem.id || 
-              multiple.indexOf(dataItem.id) !== -1 ? 
-              <div className="content">{dataItem.answer}</div> : null
-            } */}
           </div>)
           : <div>Data not found</div>
         }
