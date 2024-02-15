@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/network-Error/fcc-accordion/static/css/main.c9519128.css",
-    "main.js": "/network-Error/fcc-accordion/static/js/main.2455e83e.js",
-    "static/js/592.1ca5d6bd.chunk.js": "/network-Error/fcc-accordion/static/js/592.1ca5d6bd.chunk.js",
-    "index.html": "/network-Error/fcc-accordion/index.html",
-    "main.c9519128.css.map": "/network-Error/fcc-accordion/static/css/main.c9519128.css.map",
-    "main.2455e83e.js.map": "/network-Error/fcc-accordion/static/js/main.2455e83e.js.map",
-    "592.1ca5d6bd.chunk.js.map": "/network-Error/fcc-accordion/static/js/592.1ca5d6bd.chunk.js.map"
+    "main.css": "/fcc-accordion/static/css/main.c9519128.css",
+    "main.js": "/fcc-accordion/static/js/main.305b17e1.js",
+    "static/js/592.1ca5d6bd.chunk.js": "/fcc-accordion/static/js/592.1ca5d6bd.chunk.js",
+    "index.html": "/fcc-accordion/index.html",
+    "main.c9519128.css.map": "/fcc-accordion/static/css/main.c9519128.css.map",
+    "main.305b17e1.js.map": "/fcc-accordion/static/js/main.305b17e1.js.map",
+    "592.1ca5d6bd.chunk.js.map": "/fcc-accordion/static/js/592.1ca5d6bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9519128.css",
-    "static/js/main.2455e83e.js"
+    "static/js/main.305b17e1.js"
   ]
 }
